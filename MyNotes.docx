@@ -1,0 +1,3 @@
+Using Round function in expressions in text box on a report doesn't add trailing zeros:
+
+=Format(Fields!Hours_Worked.Value,"0.00")
